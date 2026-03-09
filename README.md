@@ -16,34 +16,36 @@ I am a Computer Engineering student dedicated to the art of **Defensive Cybersec
 
 ### 💻 Arsenal & Technologies
 
-**Low-Level & Scripting:**
+**Programming Languages & Frameworks:**
 <br>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Assembly-101010?style=for-the-badge&logo=nasm&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Basic-512BD4?style=for-the-badge&logo=visual-studio&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 
-**Defensive Security Operations:**
+**Security & Operations:**
 <br>
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1662B5?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Sysinternals-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Nmap-101010?style=for-the-badge&logo=nmap&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-EE2222?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Sysinternals-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 
 ---
 
 ### 🛡️ Engineered Defense Systems
 
-* 🧠 **[ML-Powered IDS/IPS System](https://github.com/SuatKoray):** A two-stage cascade architecture utilizing *Isolation Forest* for anomaly detection and *CatBoost/Random Forest* ensemble for high-precision attack classification.
-* 🔍 **[Ether-Scope](https://github.com/SuatKoray/Ether-Scope):** A custom, dependency-free packet sniffer developed purely in **C** using raw sockets, demonstrating deep understanding of the TCP/IP stack.
-* 🛡️ **[Synapse (FIM)](https://github.com/SuatKoray/Synapse):** A Python-engineered File Integrity Monitor built to support SOC teams and ensure PCI-DSS compliance tracking.
-* 🦠 **[Amethyst (EDR)](https://github.com/SuatKoray/Amethyst):** A lightweight Endpoint Detection and Response PoC that performs real-time file entropy analysis to halt ransomware encryption routines.
-* 📊 **[Log-Prism](https://github.com/SuatKoray/Log-Prism):** An automated log aggregation and threat hunting utility designed for rapid incident response.
+* ⚡ **[ML-Powered IDS/IPS System](https://github.com/SuatKoray):** A two-stage cascade architecture utilizing *Isolation Forest* for anomaly detection and *CatBoost/Random Forest* ensemble for high-precision attack classification.
+* 📡 **[Ether-Scope](https://github.com/SuatKoray/Ether-Scope):** A custom, dependency-free packet sniffer developed purely in **C** using raw sockets, demonstrating deep understanding of the TCP/IP stack.
+* 🔒 **[Synapse (FIM)](https://github.com/SuatKoray/Synapse):** A Python-engineered File Integrity Monitor built to support SOC teams and ensure PCI-DSS compliance tracking.
+* ☣️ **[Amethyst (EDR)](https://github.com/SuatKoray/Amethyst):** A lightweight Endpoint Detection and Response PoC that performs real-time file entropy analysis to halt ransomware encryption routines.
+* 🔦 **[Log-Prism](https://github.com/SuatKoray/Log-Prism):** An automated log aggregation and threat hunting utility designed for rapid incident response.
 
 ---
-
 
 ### 📜 Professional Milestones
 
@@ -51,6 +53,7 @@ I am a Computer Engineering student dedicated to the art of **Defensive Cybersec
 * 🏆 **White Hat Hacker Training** - *Türkiye Siber Vatan Programı*
 * 🏦 **Step Up Banking Program** - *HSBC Türkiye*
 * 🎓 **B.S. Computer Engineering** - *Tekirdağ Namık Kemal University*
+
 ---
 
 ### 📈 Operations Dashboard
