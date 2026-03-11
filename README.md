@@ -80,19 +80,26 @@ To supplement my university education, I actively participate in intensive indus
   <img src="https://img.shields.io/badge/HSBC_Türkiye-Step_Up_Banking_Program-DB0011?style=flat-square&logo=hsbc&logoColor=white" />
 </div>
 
+
 ---
 
-### 📈 GitHub Operations Dashboard
+### 📟 Terminal & Active Operations
 
-<p align="center">
-  <a href="https://github.com/SuatKoray">
-    <img src="https://github-readme-stats.vercel.app/api?username=SuatKoray&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9" alt="Koray's GitHub Stats" />
-  </a>
-  <a href="https://github.com/SuatKoray">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuatKoray&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=c9d1d9" alt="Top Languages" />
-  </a>
-</p>
+```bash
+koray@blue-team-server:~$ cat /var/log/current_status.log
+[ * ] Target Career     : Cyber Security Engineer (Defense & Finance Sectors)
+[ * ] Current Focus     : ML-Based Threat Detection & Custom EDR Development
+[ * ] Active Protocol   : Siber Vatan White Hat Hacker Training & AI Specialization
+[ * ] Community Status  : NKU Cybersecurity Community (Board Member)
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SuatKoray&color=00FF00&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
+koray@blue-team-server:~$ ./check_availability.sh
+[+] Checking system readiness for internship deployment...
+[+] Core competencies verified: Log Analysis, Network Traffic Analysis, FIM/EDR.
+[+] Status: SYSTEM READY. Awaiting new challenges in SOC & Blue Team operations.
+
+koray@blue-team-server:~$ ping -c 1 future_employer.local
+PING future_employer.local (127.0.0.1) 56(84) bytes of data.
+64 bytes from localhost: icmp_seq=1 ttl=64 time=0.015 ms
+
+--- future_employer.local ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss
