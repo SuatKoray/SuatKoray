@@ -8,7 +8,7 @@
   <a href="mailto:light.suatkoray@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/suatkoray" target="_blank">
+  <a href="[https://linkedin.com/in/suatkoray](https://www.linkedin.com/in/suat-koray-olmez/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
@@ -83,13 +83,13 @@ As a student, I focus on building tools from scratch to deeply understand the un
 
 To supplement my university education, I actively participate in intensive industry programs:
 
-<div align="center">
-  <img src="https://img.shields.io/badge/DenizBank-İlerisi_Gençlik_Cyber_Security_Bootcamp-00529B?style=flat-square&logo=gitbook&logoColor=white" />
-  <img src="https://img.shields.io/badge/Siber_Vatan_Programı-White_Hat_Hacker_Camp-E30A17?style=flat-square&logo=shield&logoColor=white" />
-  <img src="https://img.shields.io/badge/Milli_Teknoloji_Akademisi-AI_Specialization-000000?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HSBC_Türkiye-Step_Up_Banking_Program-DB0011?style=flat-square&logo=hsbc&logoColor=white" />
-</div>
-
+| Institution / Academy | Program Focus |
+| :--- | :--- |
+| <img src="https://img.shields.io/badge/Siber_Vatan_Programı-E30A17?style=for-the-badge&logo=shield&logoColor=white" /> | **White Hat Hacker Training Camp** |
+| <img src="https://img.shields.io/badge/DenizBank-00529B?style=for-the-badge" /> | **İlerisi Gençlik Cyber Security Bootcamp** |
+| <img src="https://img.shields.io/badge/Akbank_Gençlik_Akademisi-ED1C24?style=for-the-badge" /> | **Cybersecurity Analyst Program** |
+| <img src="https://img.shields.io/badge/Milli_Teknoloji_Akademisi-000000?style=for-the-badge&logo=openai&logoColor=white" /> | **Artificial Intelligence Specialization** |
+| <img src="https://img.shields.io/badge/HSBC_Türkiye-DB0011?style=for-the-badge&logo=hsbc&logoColor=white" /> | **Step Up Banking Program** |
 
 ---
 
