@@ -19,11 +19,13 @@
 
 ### 🎓 Academic & Professional Profile
 
-I am a highly motivated **3rd-year Computer Engineering student** at Tekirdağ Namık Kemal University[cite: 11], actively building the foundation to become a professional **Cyber Security Engineer**. My academic journey and hands-on projects are strictly focused on defensive cybersecurity, threat intelligence, and log analysis[cite: 7]. 
+### 🎓 Academic & Professional Profile
 
-As an aspiring engineer, I believe in bridging the gap between theoretical knowledge and real-world application. I am currently enhancing my core engineering skills with advanced, industry-recognized training through the **Siber Vatan Program** [cite: 16] and the **Milli Teknoloji Akademisi Artificial Intelligence Specialization**[cite: 14, 15]. My goal is to engineer robust, intelligent architectures that protect critical infrastructure.
+I am a highly motivated **3rd-year Computer Engineering student** at Tekirdağ Namık Kemal University, actively building the foundation to become a professional **Cyber Security Engineer**. My academic journey and hands-on projects are strictly focused on defensive cybersecurity, threat intelligence, and log analysis.
 
-Beyond my studies, I serve as a **Computer Engineering Department Assistant** [cite: 19], managing department servers and access controls [cite: 20], and act as the Co-founder of a university technology community[cite: 12].
+As an aspiring engineer, I believe in bridging the gap between theoretical knowledge and real-world application. I am currently enhancing my core engineering skills with advanced, industry-recognized training through the **Siber Vatan Program** and the **Milli Teknoloji Akademisi Artificial Intelligence Specialization**. My goal is to engineer robust, intelligent architectures that protect critical infrastructure.
+
+Beyond my studies, I serve as a **Computer Engineering Department Assistant**, assisting with the maintenance of department servers and access controls, and I act as the Co-founder of a university technology community.
 
 ---
 
