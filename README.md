@@ -19,7 +19,6 @@
 
 ### 🎓 Academic & Professional Profile
 
-### 🎓 Academic & Professional Profile
 
 I am a highly motivated **3rd-year Computer Engineering student** at Tekirdağ Namık Kemal University, actively building the foundation to become a professional **Cyber Security Engineer**. My academic journey and hands-on projects are strictly focused on defensive cybersecurity, threat intelligence, and log analysis.
 
