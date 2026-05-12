@@ -72,10 +72,10 @@ Beyond my studies, I serve as a **Computer Engineering Department Assistant**, a
 
 As a student, I focus on building tools from scratch to deeply understand the underlying protocols and security mechanisms:
 
-* 📡 **[Ether-Scope](https://github.com/SuatKoray/Ether-Scope):** A custom, dependency-free packet sniffer developed purely in **C** using raw sockets [cite: 34], demonstrating deep understanding of the TCP/IP protocol suite[cite: 32].
-* 🔒 **[Synapse (FIM)](https://github.com/SuatKoray/Synapse):** A **Python-engineered** File Integrity Monitor [cite: 34] built to support SOC teams and track unauthorized system changes.
+* 📡 **[Ether-Scope](https://github.com/SuatKoray/Ether-Scope):** A custom, dependency-free packet sniffer developed purely in **C** using raw sockets, demonstrating deep understanding of the TCP/IP protocol suite.
+* 🔒 **[Synapse (FIM)](https://github.com/SuatKoray/Synapse):** A **Python-engineered** File Integrity Monitor built to support SOC teams and track unauthorized system changes.
 * ☣️ **[Amethyst (EDR)](https://github.com/SuatKoray/Amethyst):** A lightweight Endpoint Detection and Response PoC that performs real-time file entropy analysis to halt ransomware encryption routines.
-* 🔦 **[Log-Prism](https://github.com/SuatKoray/Log-Prism):** An **automated log aggregation** and threat hunting utility [cite: 34] designed for rapid incident response.
+* 🔦 **[Log-Prism](https://github.com/SuatKoray/Log-Prism):** An **automated log aggregation** and threat hunting utility designed for rapid incident response.
 * ⚡ **[ML-Powered IDS/IPS System](https://github.com/SuatKoray):** A machine learning architecture utilizing *Isolation Forest* for anomaly detection and ensemble methods for attack classification.
 
 ---
