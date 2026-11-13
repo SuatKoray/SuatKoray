@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=System.out.println(%22Hello%2C+I'm+Koray!%22);Loading+Student+Profile...;Target:+Cyber+Security+Engineer;Initializing+Defensive+Protocols...;" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🛡️ Aspiring Cyber Security Engineer | 3rd-Year Computer Engineering Student 🛡️</h3>
+<h3 align="center">🛡️ Aspiring Cyber Security Engineer | 4rd-Year Computer Engineering Student 🛡️</h3>
 
 <div align="center">
   <a href="mailto:light.suatkoray@gmail.com">
